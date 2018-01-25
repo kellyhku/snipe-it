@@ -83,7 +83,7 @@ Form::macro('locales', function ($name = "locale", $selected = null, $class = nu
 Form::macro('countries', function ($name = "country", $selected = null, $class = null, $id = null) {
 
     $countries = array(
-    ''=>"Select a Country",
+    ''=>"选择一个国家",
     'AC'=>'Ascension Island',
     'AD'=>'Andorra',
     'AE'=>'United Arab Emirates',
